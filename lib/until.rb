@@ -3,6 +3,6 @@ def using_until
     until levitation_force == 10 
     puts 
   levitation_force 
-    
+  end 
 end
 
